@@ -1,0 +1,9 @@
+.col-design{
+    border: 1px solid lightcoral;
+    margin: 10px;
+}
+
+.row-design{
+   display: flex;
+   justify-content: center;
+}

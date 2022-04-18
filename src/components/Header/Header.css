@@ -1,0 +1,37 @@
+.link-container{
+    background-color: rgb(236, 62, 97);
+    padding: 10px;
+    display: flex;
+
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin:auto ;
+    align-items: center;
+
+}
+
+.link-container a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.MOZAFOOD{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.signoutbutton{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-decoration: none;
+    color: black;
+
+}

@@ -1,0 +1,14 @@
+.About{
+    display: flex;
+    align-items: center;
+  
+}
+
+
+
+
+.About2 img{
+    width: 70%;
+    border: 1px solid lightcoral;
+    border-radius: 20px;
+}

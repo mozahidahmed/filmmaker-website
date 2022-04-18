@@ -1,0 +1,56 @@
+
+.container{
+  
+    padding: 10px;
+    width: 40%;
+    background-color:lightgray;
+    border-radius: 10px;
+}
+
+
+.input{
+    border-radius: 20px;
+    padding: 7px;
+    width: 90%;
+  border: 1px dotted black;
+    background-color: rgb(241, 193, 203);
+    
+}
+
+.input:hover{
+    background-color: rgb(240, 111, 137);
+}
+
+
+.button{
+    padding: 7px;
+    width: 50%;
+    border-radius: 20px;
+    background-color: rgb(252, 125, 151);
+    margin-top: 10px;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+}
+.button:hover{
+
+background-color: rgb(238, 34, 74);
+}
+
+
+.para{
+border-left: 1px solid black;
+}
+
+
+
+/* .button1{
+background-color: orange;
+}
+
+.button2{
+background-color: rgb(14, 181, 187);
+}
+.button3{
+background-color: black;
+color: beige;
+} */
